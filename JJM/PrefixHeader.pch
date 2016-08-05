@@ -1,0 +1,46 @@
+//
+//  PrefixHeader.pch
+//  JJM
+//
+//  Created by 黄光伟 on 15/12/22.
+//  Copyright © 2015年 黄光伟. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+
+// 电影 和 音乐
+#import "MovieAndMusicViewController.h"
+
+
+// 推荐
+#import "RecommendViewController.h"
+
+
+// 达人
+#import "TarentoViewController.h"
+
+
+// 目的地
+#import "DestinationViewController.h"
+
+
+// 美文
+#import "BeautifulArticleViewController.h"
+
+
+
+
+
+
+
+
+
+
+
+#endif /* PrefixHeader_pch */
